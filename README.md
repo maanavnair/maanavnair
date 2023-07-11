@@ -12,4 +12,3 @@ I'm thrilled to connect with like-minded individuals, collaborate on exciting pr
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=maanavnair)  
 
-![Profile views](https://gpvc.arturio.dev/maanavnair)  
