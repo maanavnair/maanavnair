@@ -53,9 +53,11 @@ I'm thrilled to connect with like-minded individuals, collaborate on exciting pr
 
 
 # 📊 GitHub Stats:
+<div align="center">
 ![](https://github-readme-stats.vercel.app/api?username=maanavnair&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=maanavnair&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maanavnair&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
+</div>
 
 <br/>  
 
